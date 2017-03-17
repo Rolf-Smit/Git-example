@@ -1,1 +1,3 @@
-git checkout <branch>
+To switch to an existing local branch or to checkout a remote branch use the checkout command:
+
+git checkout <branch-name>
