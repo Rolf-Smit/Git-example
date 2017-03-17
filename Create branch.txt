@@ -1,0 +1,7 @@
+Create branch with current branch as parent
+
+git branch <name>
+
+Or if you want to automaticly check the new branch out
+
+git checkout -b <name>
