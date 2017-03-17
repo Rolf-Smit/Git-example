@@ -1,0 +1,8 @@
+1. Execute the commit command
+
+git commit
+
+2. Inside the editor window type a message
+3. On windows inside the VIM editor press escape followed by :wq and enter to save and close the editor
+
+You have now created a commit

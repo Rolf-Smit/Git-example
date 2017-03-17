@@ -1,0 +1,5 @@
+git log
+
+or
+
+git log --pretty=oneline
